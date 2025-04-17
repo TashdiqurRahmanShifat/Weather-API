@@ -1,0 +1,8 @@
+1.npm crate vite@latest
+2.cd [project-folder]
+3.Replace All files in the src directory with these files and back to project-folder
+4.npm install
+5.npm install @mui/material @emotion/react @emotion/styled
+6.npm install @fontsource/roboto
+7.npm install @mui/icons-material
+8.npm run dev
